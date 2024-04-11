@@ -2,8 +2,6 @@ import Head from 'next/head'
 
 import DetailPlayerContainer from './detail-profile.container'
 
-import { AppLayout } from '~/components/layouts/app-layout/app-layout'
-
 const DetailProfilePage = (props) => {
   return (
     <>
